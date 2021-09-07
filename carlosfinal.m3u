@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="" group-title="a",SD | Las Estrellas
+#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="" group-title="CANALES SD",SD | Las Estrellas
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260602
 #EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SD | Az corazón" tvg-logo="http://51.222.43.170:36995/images/356d3da179d387fa3c6e4cc9bb4b394b.jpg" group-title="CANALES SD",SD | Az corazón
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260534
@@ -105,11 +105,9 @@ http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260566
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260567
 #EXTINF:-1 tvg-id="foxpremiumfamily.co" tvg-name="SD | Fox Family" tvg-logo="http://51.222.43.170:36995/images/e3356c572b2a29f69a334cc1bdd90607.jpg" group-title="CANALES SD",SD | Fox Family
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260565
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Family" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Fox Family
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260595
 #EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="SD | Fox Movies" tvg-logo="http://51.222.43.170:36995/images/595249eba8ceb256be320861e3004a83.jpg" group-title="CANALES SD",SD | Fox Movies
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260563
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Movies" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Fox Movies
+#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Movies" tvg-logo="" group-title="CANALES SD",SD | Fox Movies
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260596
 #EXTINF:-1 tvg-id="fox1.mx" tvg-name="SD | Fox Series" tvg-logo="http://51.222.43.170:36995/images/5a002bb50f868d5dae6c29a93772d9ad.jpg" group-title="CANALES SD",SD | Fox Series
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260562
@@ -121,16 +119,12 @@ http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260559
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260583
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="SD | HBO" tvg-logo="http://51.222.43.170:36995/images/20590cac6bdbb1d87c1d1587da998b23.jpg" group-title="CANALES SD",SD | HBO
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260557
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO" tvg-logo="" group-title="CANALES SD",SD | HBO
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260599
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="SD |HBO 2" tvg-logo="http://51.222.43.170:36995/images/675664b597f318f30d66c8d8834ea421.jpg" group-title="CANALES SD",SD |HBO 2
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260527
 #EXTINF:-1 tvg-id="hbofamily.co" tvg-name="SD | HBO Family" tvg-logo="http://51.222.43.170:36995/images/a4c0db3fc3fcab436feba24bbbbe0316.jpg" group-title="CANALES SD",SD | HBO Family
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260554
 #EXTINF:-1 tvg-id="hbomundi.co" tvg-name="SD | HBO Mundi" tvg-logo="http://51.222.43.170:36995/images/92c7f2a578f371c05f0ac9b85ea00f9f.jpg" group-title="CANALES SD",SD | HBO Mundi
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260529
-#EXTINF:-1 tvg-id="hboplus.co" tvg-name="SD | HBO Plus" tvg-logo="http://51.222.43.170:36995/images/025d07370cb9c98aacd83e78e8b3a1a3.jpg" group-title="CANALES SD",SD | HBO Plus
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260556
 #EXTINF:-1 tvg-id="" tvg-name="SD | HBO plus" tvg-logo="" group-title="CANALES SD",SD | HBO plus
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260600
 #EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="SD | HBO Signature" tvg-logo="http://51.222.43.170:36995/images/0d52ce103d5251352ff1a06623798c2e.jpg" group-title="CANALES SD",SD | HBO Signature
