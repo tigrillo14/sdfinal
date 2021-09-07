@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="SD | Las Estrellas" tvg-logo="http://51.222.43.170:36995/images/ac17dbc40ce96a490f21363d2a5f3e74.jpg" group-title="CANALES SD (Poco Internet)",SD | Las Estrellas
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260578
 #EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Las Estrellas
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260602
 #EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SD | Az corazón" tvg-logo="http://51.222.43.170:36995/images/356d3da179d387fa3c6e4cc9bb4b394b.jpg" group-title="CANALES SD (Poco Internet)",SD | Az corazón
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260534
 #EXTINF:-1 tvg-id="axn.mx" tvg-name="SD | AXN" tvg-logo="http://51.222.43.170:36995/images/625fa0bfdb706073072b1d52884d47c6.jpg" group-title="CANALES SD (Poco Internet)",SD | AXN
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260579
-#EXTINF:-1 tvg-id="" tvg-name="SD | AXN" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | AXN
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260585
 #EXTINF:-1 tvg-id="" tvg-name="SD | Comedy Central" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Comedy Central
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260587
 #EXTINF:-1 tvg-id="eentertainmentandes.co" tvg-name="SD | E!" tvg-logo="http://51.222.43.170:36995/images/787c7e31d7a1968ea671796e29e7bf85.jpg" group-title="CANALES SD (Poco Internet)",SD | E!
@@ -149,14 +145,10 @@ http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260538
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260542
 #EXTINF:-1 tvg-id="" tvg-name="SD | Sony" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Sony
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260604
-#EXTINF:-1 tvg-id="space.co" tvg-name="SD | Space" tvg-logo="http://51.222.43.170:36995/images/ff2364a0be3d20e46cc69efb36afe9a5.jpg" group-title="CANALES SD (Poco Internet)",SD | Space
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260541
 #EXTINF:-1 tvg-id="" tvg-name="SD | Space" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Space
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260605
 #EXTINF:-1 tvg-id="" tvg-name="SD | Studio Universal" tvg-logo="http://51.222.43.170:36995/images/2d7d33051b78be79634dcff2afa2e35d.jpg" group-title="CANALES SD (Poco Internet)",SD | Studio Universal
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260612
-#EXTINF:-1 tvg-id="" tvg-name="SD | TNT" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | TNT
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260607
 #EXTINF:-1 tvg-id="tnt.co" tvg-name="SD | TNT" tvg-logo="http://51.222.43.170:36995/images/05fce68836347ec77b6ce7f4c3367a36.jpg" group-title="CANALES SD (Poco Internet)",SD | TNT
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260525
 #EXTINF:-1 tvg-id="" tvg-name="SD | TNT Series" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | TNT Series
@@ -187,17 +179,13 @@ http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260580
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260581
 #EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="SD | Fox Sports 3" tvg-logo="http://51.222.43.170:36995/images/464bcb4597a95683a700913a7ff774d0.jpg" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 3
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260582
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Sports 2" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 2
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260597
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Sports 3" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 3
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260598
 #EXTINF:-1 tvg-id="" tvg-name="SD | ESPN 2 SD" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | ESPN 2 SD
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/262172
 #EXTINF:-1 tvg-id="" tvg-name="SD | AMC" tvg-logo="http://51.222.43.170:36995/images/9732a21fc7fabf239639cd3f2eebd21f.png" group-title="CANALES SD (Poco Internet)",SD | AMC
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/265941
 #EXTINF:-1 tvg-id="" tvg-name="11668" tvg-logo="https://www.dropbox.com/s/jrxiuyofk17lbin/toppng.com-xxx-energy-drink-vector-logo-free-download-400x400.png?dl=1" group-title="XXX VOD",11668
 http://51.222.43.170:36995/movie/A38SD/zfPuqt9MZhCX/247125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SP | Formula 1" tvg-logo="http://51.222.43.170:36995/images/4d4fc43cfd7c68f0a973e4c5e692ed8c.jpg" group-title="DEPORTES",SP | Formula 1
+#EXTINF:-1 tvg-id="" tvg-name="SP | Formula 1" tvg-logo="http://51.222.43.170:36995/images/4d4fc43cfd7c68f0a973e4c5e692ed8c.jpg" group-title="CANALES SD (Poco Internet)",SP | Formula 1
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260370
 #EXTINF:-1 tvg-id="" tvg-name="DE | SKY Sports MotoGP" tvg-logo="https://pbs.twimg.com/profile_images/1307216494267445249/tmnIzhUF_400x400.jpg" group-title="DEPORTES",DE | SKY Sports MotoGP
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/263317
