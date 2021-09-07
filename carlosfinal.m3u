@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="",SD | Las Estrellas
+#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo=""group-title="CANALES SD",SD | Las Estrellas
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260602
 #EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SD | Az corazón" tvg-logo="http://51.222.43.170:36995/images/356d3da179d387fa3c6e4cc9bb4b394b.jpg" group-title="CANALES SD",SD | Az corazón
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260534
@@ -107,8 +107,6 @@ http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260567
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260565
 #EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="SD | Fox Movies" tvg-logo="http://51.222.43.170:36995/images/595249eba8ceb256be320861e3004a83.jpg" group-title="CANALES SD",SD | Fox Movies
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260563
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Movies" tvg-logo="" group-title="CANALES SD",SD | Fox Movies
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260596
 #EXTINF:-1 tvg-id="fox1.mx" tvg-name="SD | Fox Series" tvg-logo="http://51.222.43.170:36995/images/5a002bb50f868d5dae6c29a93772d9ad.jpg" group-title="CANALES SD",SD | Fox Series
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260562
 #EXTINF:-1 tvg-id="" tvg-name="SD | FXM" tvg-logo="http://51.222.43.170:36995/images/f675e53de73d5e37e01a1c9139658131.jpg" group-title="CANALES SD",SD | FXM
@@ -137,8 +135,6 @@ http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260601
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260538
 #EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="SD | Sony" tvg-logo="http://51.222.43.170:36995/images/ab1b61b351fdd5faf01951f8351d94b1.jpg" group-title="CANALES SD",SD | Sony
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260542
-#EXTINF:-1 tvg-id="" tvg-name="SD | Sony" tvg-logo="" group-title="CANALES SD",SD | Sony
-http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260604
 #EXTINF:-1 tvg-id="" tvg-name="SD | Space" tvg-logo="" group-title="CANALES SD",SD | Space
 http://51.222.43.170:36995/A38SD/zfPuqt9MZhCX/260605
 #EXTINF:-1 tvg-id="" tvg-name="SD | Studio Universal" tvg-logo="http://51.222.43.170:36995/images/2d7d33051b78be79634dcff2afa2e35d.jpg" group-title="CANALES SD",SD | Studio Universal
