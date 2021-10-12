@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Azteca 13" tvg-logo="http://51.222.43.170:36995/images/8def2843fadfd3790868e362f6e8c509.png" group-title="CANALES FHD",FHD | Azteca 13
+http://51.222.43.170:36995/A653M/gRP3bKQr5CQ5/263448
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Las Estrellas" tvg-logo="http://51.222.43.170:36995/images/ad3cbe1f12299f6305ca583565e2077c.png" group-title="CANALES FHD",FHD | Las Estrellas
+http://51.222.43.170:36995/A653M/gRP3bKQr5CQ5/263287
 #EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo=""group-title="CANALES SD",SD | Las Estrellas
 http://51.222.43.170:36995/A653M/gRP3bKQr5CQ5/260602
 #EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SD | Az corazón" tvg-logo="http://51.222.43.170:36995/images/356d3da179d387fa3c6e4cc9bb4b394b.jpg" group-title="CANALES SD",SD | Az corazón
